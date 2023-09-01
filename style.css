@@ -1,0 +1,24 @@
+body{
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color:aqua;
+}
+.A{
+    border: 2px  solid rgb(30, 216, 213);
+    width: 60px;
+    background-color: rgb(0, 255, 250);
+}
+#Table{
+    display: table-row;
+    height: 100;
+}
+#Home{
+    width: 50%;
+    display: table-cell;
+    background-color:rgb(0, 255, 250)
+}
+#Fun_Facts{
+    margin-left: 50%;
+    height: 100px;
+    background-color: rgb(0, 255, 250);
+}
